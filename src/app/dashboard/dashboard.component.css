@@ -1,0 +1,9 @@
+
+      .logo {
+        color: white;
+        height: 32px;
+        line-height: 32px;
+        font-size: 20px;
+        /*background: rgba(255,255,255,.2);*/
+        margin: 16px;
+      }
